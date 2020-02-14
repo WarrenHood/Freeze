@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<script type="text/javascript" src="freeze.js"></script>
+		<style>
+			body{
+				overflow:hidden;
+				user-select: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="gamearea"></div>
+		<center style="z-index:1000">Score: <span id="score"></span> ( Best: <span id="best"></span>) <button style="background:black;color:white;border:1px solid white; border-radius:10px;" id="reset" onclick="loadLevel(25)" hidden>Reset</button></center>
+	</body>
+</html>
