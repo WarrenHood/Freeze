@@ -7,4 +7,6 @@ The aim of the game is to freeze all of the blocks on the screen while minimizin
 Click on blocks to freeze them.
 
 NOTE: This was coded from about 1AM until around 4AM, and I have no idea why I made this game, and I do not intend to work on it any further.
+
+
 Enjoy... (Or don't, I don't really care, I wanna sleep!)
