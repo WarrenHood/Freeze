@@ -127,15 +127,6 @@ function gameBlock() {
 			this.width += this.directionX*this.speed;
 			this.height += this.directionY*this.speed;
 
-			
-
-			
-
-			
-
-			
-			
-			
 
 		},
 		color: [0,0,0],
